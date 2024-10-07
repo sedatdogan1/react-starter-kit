@@ -1,4 +1,7 @@
 # REACT BAŞLANGIÇ PROJESİ
 
-Bu kodlar benim react başlangıç proje dosyalarımdır.
-deneme tekrar yapıyoruz
+React useState öğrenildi (tekrar edilecek)
+
+Component mantığı öğrenildi
+
+Tailwind tekrarı yapıldı
