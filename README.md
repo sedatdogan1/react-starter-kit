@@ -1,3 +1,4 @@
 # REACT BAŞLANGIÇ PROJESİ
 
-Bu kodlar benim react başlangıç proje dosyalarımdır
+Bu kodlar benim react başlangıç proje dosyalarımdır.
+Kalıcı olsun
