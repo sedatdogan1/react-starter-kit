@@ -1,7 +1,11 @@
+import './App.css'
+
 function App(){
     return (
-        <div>
-            test
+        <div className="App">
+            <h3>
+                deneme
+            </h3>
         </div>
     )
 }
