@@ -1,4 +1,4 @@
 # REACT BAŞLANGIÇ PROJESİ
 
 Bu kodlar benim react başlangıç proje dosyalarımdır.
-Kalıcı olsun
+deneme tekrar yapıyoruz
